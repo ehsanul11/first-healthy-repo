@@ -1,0 +1,32 @@
+
+       /* this is first div section */
+
+.flexible-container{
+  display: flex;
+  margin-bottom: 150px;
+ 
+}
+.short{
+  color: orange;
+}
+h1{
+  font-size: 40px;
+}
+.pragraph{
+  width: 50%;
+  margin-left: 5%;
+}
+.pragraph img{
+  width: 80%;
+  
+}
+.pragraph p{
+  margin-bottom: 60px ;
+}
+.link-button{
+  text-decoration: none;
+  font-weight: 700;
+  background-image: linear-gradient(tomato,orange);
+  padding: 10px 30px;
+  border-radius: 20px;
+}
